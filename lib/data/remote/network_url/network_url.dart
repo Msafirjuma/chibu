@@ -1,4 +1,4 @@
-const liveurl = 'https://digitalhrface.cyclonenepal.com';
+const liveurl = 'https://appstore.co.tz';
 const demourl = 'http://192.168.1.104:8000';
 const baseurl = liveurl;
 
